@@ -138,3 +138,4 @@ while True:
 
 conn.close()
 print("Connection closed")
+print("bye")
